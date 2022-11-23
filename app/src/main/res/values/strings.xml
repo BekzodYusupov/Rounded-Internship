@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Rounded_Internship</string>
+    <string name="appbar_title">ROUNDED TASK</string>
+    <string name="lesson2">How to talk about nation Asilbek Asqarov Asilbek</string>
+    <string name="lesson2_title">Lesson 2</string>
+    <string name="saqlab_qo_yish">Saqlab qo’yish</string>
+    <string name="yuklab_olish">Yuklab olish</string>
+    <string name="grammar">Grammar</string>
+    <string name="abstract_shape">abstract shape</string>
+    <string name="_0">0%</string>
+    <string name="vocabulary">vocabulary</string>
+    <string name="speaking">Speaking</string>
+    <string name="listening">Listening</string>
+    <string name="homework">Homework</string>
+    <string name="homework_content">Bu joyda barcha ishtirokchilar darajalari bilan tanishing</string>
+    <string name="premium_content">premium content</string>
+    <string name="trophy">trophy image</string>
+    <string name="how_to_speak_like_a_native">How to speak like a native</string>
+    <string name="play_icon">play icon</string>
+    <string name="close_dialog">close dialog</string>
+    <string name="har_safar_yangi_rasm_siz_uchun">Har safar yangi rasm, siz uchun)</string>
+    <string name="to_xtatish">To’xtatish</string>
+</resources>
